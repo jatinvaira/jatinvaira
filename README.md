@@ -25,9 +25,16 @@
 
 <p align="left">I am a software developer, currently learning Blockchain and Machine learning. Having a great grip in Full stack development and team management sklills.</p>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatinvaira/jatinvaira/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jatinvaira/jatinvaira/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jatinvaira/jatinvaira/output/github-snake.svg" />
+</picture>
+
 ###
 
-<h3 align="center">My Tech Stack</h3>
+<h3 align="left">My Tech Stack</h3>
 
 ###
 
@@ -73,6 +80,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+
+###
+<h2 align="left">Github achievements</h2>
 ###
 
 <div align="center">
@@ -82,15 +92,11 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatinvaira/jatinvaira/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jatinvaira/jatinvaira/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jatinvaira/jatinvaira/output/github-snake.svg" />
-</picture>
-###
+
+
 
 <!-- <div align="center">
   <img src="https://profile-counter.glitch.me/jatinvaira/count.svg?"  />
 </div> -->
 
-###
+
