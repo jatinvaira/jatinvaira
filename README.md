@@ -85,10 +85,13 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=jatinvaira&theme=darkhub&column=4&row=1&margin-w=8&margin-h=10&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinvaira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2&custom_title=Languages%20Used" height="150" alt="languages graph"  />
+  
 </div>
 
 ###
+<h2 align="left">Languages used</h2>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinvaira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2&custom_title=Languages%20Used" height="150" alt="languages graph"  />
 
 
 
