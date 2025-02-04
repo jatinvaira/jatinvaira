@@ -33,10 +33,8 @@
 </picture>
 
 ###
+<h2 align="left">My Tech Stack</h2>
 
-<h3 align="left">My Tech Stack</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
@@ -83,7 +81,7 @@
 
 ###
 <h2 align="left">Github achievements</h2>
-###
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=jatinvaira&theme=darkhub&column=4&row=1&margin-w=8&margin-h=10&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
