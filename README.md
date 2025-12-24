@@ -12,7 +12,7 @@
   <a href="https://x.com/jatinvaira" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://jatinvaira.vercel.app" target="_blank">
+  <a href="https://folio.vaira.cc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My%20Website&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="25" alt="devto logo"  />
   </a>
 </div>
